@@ -2,7 +2,7 @@
 ###Introduction 
 
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/38nU3iutsu0/0.jpg)](https://youtu.be/38nU3iutsu0)
+[![INTRODUCTION SESSION](https://youtu.be/38nU3iutsu0/0.jpg)](https://youtu.be/38nU3iutsu0)
 
 
 ## Base Software Installation
