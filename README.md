@@ -1,6 +1,8 @@
 # Tensorflow Extended (TFX) Tutorial
 Introduction 
-https://youtu.be/38nU3iutsu0 
+
+
+iframe width="560" height="315" src="https://youtu.be/38nU3iutsu0 " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Base Software Installation
 For this tutorial we need Anaconda Python and Docker installed on your machine. You can find the anaconda software and installations at https://www.anaconda.com/distribution/. For Docker CE installation refer the document at https://docs.docker.com/install/linux/docker-ce/ubuntu/. 
